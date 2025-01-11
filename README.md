@@ -11,4 +11,5 @@
 9.  git checkout main
 10.  git branch # para saber en que rama estoy
 11.  git branch -d nombre de la rama #borra la rama q ta no necesitemos
+12. git push
 
