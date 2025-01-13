@@ -16,16 +16,16 @@
 14. git push origin main #hace el psuh a mi main de git hub
 
 -------------------------------------------------------
-1. Subir una carpeta o archivo
-cd ruta de la carpeta o archivo que quiera subir
-git add nombre de la carpeta o archivo
-git commit -m
-git push origin main
-2. Eliminar una carpeta o archivo en local y que se actualice en git 
- cd ruta de la carpeta o archivo que quiera subir
- rm -r nombre_de_tu_carpeta #Para carpeta
- rm nombre_de_tu_archivo #Para archivo
- git add -u
- git commit -m "Eliminar carpeta/archivo innecesario"
- git push origin main
+-- Subir una carpeta o archivo --
+1. cd ruta de la carpeta o archivo que quiera subir
+2. git add nombre de la carpeta o archivo
+3. git commit -m
+4. git push origin main
+-- Eliminar una carpeta o archivo en local y que se actualice en git-- 
+1. cd ruta de la carpeta o archivo que quiera subir
+2. rm -r nombre_de_tu_carpeta #Para carpeta
+3. rm nombre_de_tu_archivo #Para archivo
+4. git add -u
+5. git commit -m "Eliminar carpeta/archivo innecesario"
+6. git push origin main
  -------------------------------------------------------
