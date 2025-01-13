@@ -13,4 +13,5 @@
 11.  git branch -d nombre de la rama #borra la rama q ta no necesitemos
 12. git push
 13. git commit -am 
+14. git push origin main #hace el psuh a mi main de git hub
 
